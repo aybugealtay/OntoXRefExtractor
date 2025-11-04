@@ -5,8 +5,8 @@ This project extracts anatomical (UBERON) and cellular (CL) cross-references fro
 ## Setup
 
 ```bash
-git clone <your-repo-url>
-cd hpo-preprocess
+git clone https://github.com/aybugealtay/OntoXRefExtractor.git
+cd OntoXRefExtractor
 python -m venv hpo_env
 source hpo_env/bin/activate   # macOS/Linux
 
