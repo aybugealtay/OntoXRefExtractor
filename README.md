@@ -1,7 +1,6 @@
 # HPO Preprocessing Project
 
-This project extracts anatomical (UBERON) and cellular (CL) cross-references from the Human Phenotype Ontology (HPO) and the Cell Ontology (CL).
-
+This project extracts anatomical (UBERON) and cellular (CL) cross-references from the Human Phenotype Ontology (HPO).
 ## Setup
 
 ```bash
