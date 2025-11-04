@@ -1,0 +1,5 @@
+owlapy
+rdflib==7.0.0
+pandas==2.2.2
+tqdm==4.66.4
+jupyter==1.1.1
