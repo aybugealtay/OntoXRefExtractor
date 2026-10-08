@@ -1,0 +1,62 @@
+{
+  "created": "2026-10-06T15:51:47+00:00",
+  "script": "hpo_crosslink_extractor.py",
+  "settings": {},
+  "command": "src/hpo_crosslink_extractor.py",
+  "arguments": {
+    "hpo": null,
+    "uberon": null,
+    "cl": null,
+    "hpo_release": null,
+    "uberon_release": null,
+    "cl_release": null,
+    "latest": false,
+    "cache_dir": "./data",
+    "out": "./data/outputs/crosslink_extractor",
+    "no_timestamp": false
+  },
+  "software": {
+    "python": "3.13.5",
+    "rdflib": "7.2.1",
+    "pandas": "2.3.3"
+  },
+  "ontologies": {
+    "hpo": {
+      "source": "newest downloaded release 2026-09-01",
+      "selected_by": "default (newest downloaded)",
+      "download_url": null,
+      "path": "data/hpo/releases/2026-09-01/hp.owl",
+      "release_date": "2026-09-01",
+      "version_iri": "http://purl.obolibrary.org/obo/hp/releases/2026-09-01/hp.owl",
+      "version_info": null,
+      "size_bytes": 76854086,
+      "sha256": "8da35ec3b4cb494369b249acb9c2b3874a5a5839a91d5fae74b0d215b355138b",
+      "file_modified": "2026-10-05T15:41:57+00:00"
+    },
+    "uberon": {
+      "source": "newest downloaded release 2026-10-01",
+      "selected_by": "default (newest downloaded)",
+      "download_url": null,
+      "path": "data/uberon/releases/2026-10-01/uberon.owl",
+      "release_date": "2026-10-01",
+      "version_iri": "http://purl.obolibrary.org/obo/uberon/releases/2026-10-01/uberon.owl",
+      "version_info": null,
+      "size_bytes": 96347629,
+      "sha256": "8c5dafd10760734320c144ff521b0cb7732b207491db7124166656668a8790fc",
+      "file_modified": "2026-10-05T15:41:59+00:00"
+    },
+    "cl": {
+      "source": "newest downloaded release 2026-06-08",
+      "selected_by": "default (newest downloaded)",
+      "download_url": null,
+      "path": "data/cl/releases/2026-06-08/cl.owl",
+      "release_date": "2026-06-08",
+      "version_iri": "http://purl.obolibrary.org/obo/cl/releases/2026-06-08/cl.owl",
+      "version_info": "2026-06-08",
+      "size_bytes": 66012941,
+      "sha256": "6abe12f1569d077507e03c1ad0168ebbb9ed725973a7eddba8ab3b9aeaf7a68d",
+      "file_modified": "2026-10-05T15:42:02+00:00"
+    }
+  },
+  "changes_since_previous_run": {}
+}

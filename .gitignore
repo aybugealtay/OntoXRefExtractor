@@ -7,14 +7,17 @@ requirements_owlpy.txt
 
 # Exclude pytest cache
 .pytest_cache/
+.data/
 
 # Exclude Jupyter notebooks except within "notebooks/final"
 notebooks/*.ipynb
 !notebooks/final/*.ipynb
 
-# Exclude '__pycache__' folders
+# Exclude '__pycache__' old, folders
 **/__pycache__/
-
+__OLD*/**
+__OLD*/
+presentation/
 # Exclude commonly ignored files
 .DS_Store
 Thumbs.db
@@ -23,7 +26,7 @@ Thumbs.db
 *.pyo
 
 # Ignore downloaded data files
-data/uberon.owl
-data/cl.owl
-data/hp.owl
+data/uberon*
+data/cl
+data/hp*
 data/graph.xml
