@@ -1,0 +1,36 @@
+HPO_Label,HPO_ID,UBERON_Label,UBERON_ID
+Abnormality of the bladder,HP:0000014,urinary bladder,UBERON:0001255
+Renal insufficiency,HP:0000083,kidney,UBERON:0002113
+Edema,HP:0000969,multicellular organism,UBERON:0000468
+Abnormality of subcutaneous fat tissue,HP:0001001,subcutaneous adipose tissue,UBERON:0002190
+Abnormality of the liver,HP:0001392,liver,UBERON:0002107
+Decreased liver function,HP:0001410,liver,UBERON:0002107
+Abnormal ileum morphology,HP:0001549,ileum,UBERON:0002116
+Pancreatic cysts,HP:0001737,pancreas,UBERON:0001264
+Weight loss,HP:0001824,multicellular organism,UBERON:0000468
+Subcutaneous hemorrhage,HP:0001933,superficial fascia,UBERON:0011818
+Inflammation of the large intestine,HP:0002037,large intestine,UBERON:0000059
+Pneumonia,HP:0002090,lung,UBERON:0002048
+Hepatomegaly,HP:0002240,liver,UBERON:0002107
+Lymphadenopathy,HP:0002716,lymph node,UBERON:0000029
+Decreased circulating IgA concentration,HP:0002720,blood,UBERON:0000178
+Decreased circulating total IgM,HP:0002850,blood,UBERON:0000178
+Elevated circulating hepatic transaminase concentration,HP:0002910,liver,UBERON:0002107
+Increased circulating IgA concentration,HP:0003261,blood,UBERON:0000178
+Abdominal distention,HP:0003270,abdomen,UBERON:0000916
+Increased circulating ferritin concentration,HP:0003281,blood serum,UBERON:0001977
+Increased body weight,HP:0004324,multicellular organism,UBERON:0000468
+Intestinal obstruction,HP:0005214,intestine,UBERON:0000160
+Intestinal edema,HP:0005225,intestine,UBERON:0000160
+Gastritis,HP:0005263,stomach,UBERON:0000945
+Dilatation of the bladder,HP:0010955,urinary bladder,UBERON:0001255
+Inflammatory abnormality of the skin,HP:0011123,skin of body,UBERON:0002097
+Abnormal urine sodium concentration,HP:0012603,urine,UBERON:0001088
+Hyponatriuria,HP:0012604,urine,UBERON:0001088
+Left atrial enlargement,HP:0031295,left cardiac atrium,UBERON:0002079
+Abnormal circulating C-reactive protein concentration,HP:0032436,blood,UBERON:0000178
+Reduced circulating C-reactive protein concecntration,HP:0032437,blood,UBERON:0000178
+Serositis,HP:0045073,serous membrane,UBERON:0000042
+Scarring,HP:0100699,multicellular organism,UBERON:0000468
+Muscular edema,HP:0100748,muscle organ,UBERON:0001630
+Intestinal fistula,HP:0100819,intestine,UBERON:0000160

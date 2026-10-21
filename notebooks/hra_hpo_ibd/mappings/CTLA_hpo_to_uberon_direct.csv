@@ -1,0 +1,32 @@
+HPO_Label,HPO_ID,UBERON_Label,UBERON_ID
+Eczematoid dermatitis,HP:0000964,blood vessel,UBERON:0001981
+Eczematoid dermatitis,HP:0000964,skin of body,UBERON:0002097
+Edema,HP:0000969,multicellular organism,UBERON:0000468
+Soft skin,HP:0000977,skin of body,UBERON:0002097
+Pallor,HP:0000980,skin of body,UBERON:0002097
+Abnormality of the liver,HP:0001392,liver,UBERON:0002107
+Decreased liver function,HP:0001410,liver,UBERON:0002107
+Pancreatitis,HP:0001733,pancreas,UBERON:0001264
+Weight loss,HP:0001824,multicellular organism,UBERON:0000468
+Increased total eosinophil count,HP:0001880,blood,UBERON:0000178
+Decreased total leukocyte count,HP:0001882,blood,UBERON:0000178
+Decreased total lymphocyte count,HP:0001888,blood,UBERON:0000178
+Diarrhea,HP:0002014,feces,UBERON:0001988
+Inflammation of the large intestine,HP:0002037,large intestine,UBERON:0000059
+Pleural effusion,HP:0002202,pleural cavity,UBERON:0002402
+Colitis,HP:0002583,colon,UBERON:0001155
+Hypotension,HP:0002615,blood,UBERON:0000178
+Hypotension,HP:0002615,blood vessel,UBERON:0001981
+Lymphadenopathy,HP:0002716,lymph node,UBERON:0000029
+Elevated circulating hepatic transaminase concentration,HP:0002910,liver,UBERON:0002107
+Hypoalbuminemia,HP:0003073,blood,UBERON:0000178
+Abdominal distention,HP:0003270,abdomen,UBERON:0000916
+Abnormal gastric mucosa morphology,HP:0004295,mucosa of stomach,UBERON:0001199
+Abnormality of body weight,HP:0004323,multicellular organism,UBERON:0000468
+Gastrointestinal inflammation,HP:0004386,alimentary part of gastrointestinal system,UBERON:0005409
+Chronic gastritis,HP:0005231,stomach,UBERON:0000945
+Gastritis,HP:0005263,stomach,UBERON:0000945
+Chronic pancreatitis,HP:0006280,pancreas,UBERON:0001264
+Villous atrophy,HP:0011473,intestinal villus,UBERON:0001213
+Duodenitis,HP:0033117,duodenum,UBERON:0002114
+Increased total lymphocyte count,HP:0100827,blood,UBERON:0000178

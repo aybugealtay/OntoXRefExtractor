@@ -1,0 +1,11 @@
+HPO_Label,HPO_ID,CL_Label,CL_ID
+Thrombocytopenia,HP:0001873,platelet,CL:0000233
+Decreased total neutrophil count,HP:0001875,neutrophil,CL:0000775
+Pancytopenia,HP:0001876,erythrocyte,CL:0000232
+Pancytopenia,HP:0001876,platelet,CL:0000233
+Pancytopenia,HP:0001876,leukocyte,CL:0000738
+Increased total eosinophil count,HP:0001880,eosinophil,CL:0000771
+Decreased total leukocyte count,HP:0001882,leukocyte,CL:0000738
+Decreased total lymphocyte count,HP:0001888,lymphocyte,CL:0000542
+Anemia,HP:0001903,erythrocyte,CL:0000232
+Increased total lymphocyte count,HP:0100827,lymphocyte,CL:0000542

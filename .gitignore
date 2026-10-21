@@ -18,6 +18,7 @@ notebooks/*.ipynb
 __OLD*/**
 __OLD*/
 presentation/
+__OLD*
 # Exclude commonly ignored files
 .DS_Store
 Thumbs.db
