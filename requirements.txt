@@ -1,5 +1,3 @@
-owlready2
-pandas
-jupyter
-tqdm
-
+rdflib>=7.0
+pandas>=2.0
+jupyter  # only needed for the notebooks

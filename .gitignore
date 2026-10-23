@@ -1,33 +1,29 @@
-# Exclude virtual environments
+# Virtual environments
 .venv/
 hpo_venv/
 
-# Exclude specific file
-requirements_owlpy.txt
-
-# Exclude pytest cache
-.pytest_cache/
-.data/
-
-# Exclude Jupyter notebooks except within "notebooks/final"
-notebooks/*.ipynb
-!notebooks/final/*.ipynb
-
-# Exclude '__pycache__' old, folders
+# Python and tooling caches
 **/__pycache__/
-__OLD*/**
-__OLD*/
-presentation/
-__OLD*
-# Exclude commonly ignored files
+*.pyc
+*.pyo
+.pytest_cache/
+
+# OS files and logs
 .DS_Store
 Thumbs.db
 *.log
-*.pyc
-*.pyo
 
-# Ignore downloaded data files
-data/uberon*
-data/cl
-data/hp*
-data/graph.xml
+# Local-only material
+__OLD*
+src/*_w_comments.py
+presentation/
+
+# Notebooks: only notebooks/hra_hpo_ibd is published
+notebooks/*
+!notebooks/hra_hpo_ibd/
+
+# Downloaded ontology releases (re-created by ontology_sources.py)
+data/hpo/
+data/uberon/
+data/cl/
+data/*.owl
