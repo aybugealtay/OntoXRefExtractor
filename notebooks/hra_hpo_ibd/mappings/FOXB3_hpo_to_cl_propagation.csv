@@ -1,0 +1,3 @@
+HPO_Label,HPO_ID,CL_Label,CL_ID
+Anemia,HP:0001903,erythrocyte,CL:0000232
+Increased total lymphocyte count,HP:0100827,lymphocyte,CL:0000542

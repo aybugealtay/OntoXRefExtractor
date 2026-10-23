@@ -1,0 +1,27 @@
+HPO_Label,HPO_ID,UBERON_Label,UBERON_ID
+Facial edema,HP:0000282,face,UBERON:0001456
+Eczematoid dermatitis,HP:0000964,blood vessel,UBERON:0001981
+Eczematoid dermatitis,HP:0000964,skin of body,UBERON:0002097
+Hypotonia,HP:0001252,muscle organ,UBERON:0001630
+Generalized hypotonia,HP:0001290,muscle organ,UBERON:0001630
+Ventricular septal defect,HP:0001629,interventricular septum,UBERON:0002094
+Atrial septal defect,HP:0001631,interatrial septum,UBERON:0002085
+Cardiomegaly,HP:0001640,heart,UBERON:0000948
+Bicuspid aortic valve,HP:0001647,aortic valve,UBERON:0002137
+Hypoglycemia,HP:0001943,blood,UBERON:0000178
+Diarrhea,HP:0002014,feces,UBERON:0001988
+Pneumonia,HP:0002090,lung,UBERON:0002048
+Pleural effusion,HP:0002202,pleural cavity,UBERON:0002402
+Hepatomegaly,HP:0002240,liver,UBERON:0002107
+Abnormal intestine morphology,HP:0002242,intestine,UBERON:0000160
+Colitis,HP:0002583,colon,UBERON:0001155
+Hyperglycemia,HP:0003074,blood,UBERON:0000178
+Abdominal distention,HP:0003270,abdomen,UBERON:0000916
+Increased body weight,HP:0004324,multicellular organism,UBERON:0000468
+Decreased body weight,HP:0004325,multicellular organism,UBERON:0000468
+Gastrointestinal inflammation,HP:0004386,alimentary part of gastrointestinal system,UBERON:0005409
+Premature closure of fontanelles,HP:0005458,fontanelle,UBERON:0002221
+Premature closure of fontanelles,HP:0005458,vault of skull,UBERON:0004339
+Premature posterior fontanelle closure,HP:0005494,posterior fontanelle,UBERON:0006683
+Hypoglycinemia,HP:0012277,blood,UBERON:0000178
+Increased total lymphocyte count,HP:0100827,blood,UBERON:0000178
